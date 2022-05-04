@@ -1,2 +1,4 @@
 ---
 # defaults file for roles/docker
+
+subnet_address: 172.18.0.0/16
